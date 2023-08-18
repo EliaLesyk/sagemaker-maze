@@ -10,3 +10,4 @@ model.joblib
 .vscode
 .DS_Store
 .venv
+.ipynb_checkpoints
