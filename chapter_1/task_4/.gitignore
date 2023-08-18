@@ -1,0 +1,12 @@
+data/
+env/
+models/
+src/
+
+model.pkl
+model.joblib
+
+.idea
+.vscode
+.DS_Store
+.venv
